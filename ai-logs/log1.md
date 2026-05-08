@@ -125,5 +125,48 @@ Trending hashtags and audio recommendations
 Platform-specific strategies
 Competitive content analysis
 Is there anything else you'd like to add or adjust to the Viral Clone app?
+##prompt
+you made a block to upload media or script , do the same for competitor and remove competitor content from link (those recent changes and competitor content for comparison
+
+##response
+I'll help you reorganize the competitor content inputs by adding a document upload widget and removing the text-based competitor inputs.
+Widgets updated
+Now I'll remove the two text-based competitor input widgets as requested:
+Widgets removed
+Now I need to update the Competitive Content Analysis widget to reference the new competitor document upload instead of the removed text input:
+Widgets updated
+Perfect! I've successfully reorganized your competitor content section:
+
+✅ Added a "Competitor Media or Script" document upload widget (matching your user content structure)
+
+✅ Removed the text-based competitor inputs:
+
+"Competitor Content for Comparison"
+"Competitor Content from Link"
+The explanatory static text about links
+✅ Updated the Competitive Content Analysis widget to reference the new document upload
+
+Now your app has a clean, parallel structure where users upload their own media/script and competitor media/script as documents for comparison!
+
+##prompt
+add caption or text content block for competitors too
+
+##response
+Widgets updated
+Now I need to update the Competitive Content Analysis widget to reference both the competitor caption and competitor media:
+Widgets updated
+Perfect! I've added a "Competitor Caption or Text Content" text input widget that mirrors your "Caption or Text Content" field. Now your app has a complete parallel structure:
+
+Your Content:
+
+Caption or Text Content (text input)
+Uploaded Media or Script (document)
+Competitor Content:
+
+Competitor Caption or Text Content (text input)
+Competitor Media or Script (document)
+The Competitive Content Analysis widget now references all four inputs to provide a comprehensive comparison between your content and competitor content across both captions and media!
+
+
 
 
